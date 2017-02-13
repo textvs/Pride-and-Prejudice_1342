@@ -1,10 +1,10 @@
-= Pride and Prejudice
+# Pride and Prejudice
+
 Jane Austen
 v0.0.4
-:TOC:
 
-[colophon]
-== Copyright
+
+## Copyright
 
 This edition of _Pride and Prejudice_ is maintained, archived, and curated as part of
 the GITENBERG PROJECT.
@@ -24,7 +24,8 @@ Made available under a Creative Commons Attribution-NonCommercial 4.0 license
 
 https://creativecommons.org/licenses/by-nc/4.0/
 
-== Chapter 1
+
+## Chapter 1
 
 It is a truth universally acknowledged, that a single man in possession
 of a good fortune, must be in want of a wife.
@@ -46,7 +47,7 @@ Mr. Bennet made no answer.
 
 "Do you not want to know who has taken it?" cried his wife impatiently.
 
-"__You__ want to tell me, and I have no objection to hearing it."
+"_You_ want to tell me, and I have no objection to hearing it."
 
 This was invitation enough.
 
@@ -138,7 +139,8 @@ little information, and uncertain temper. When she was discontented, she
 fancied herself nervous. The business of her life was to get her
 daughters married; its solace was visiting and news.
 
-== Chapter 2
+
+## Chapter 2
 
 Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He
 had always intended to visit him, though to the last always assuring his
@@ -181,7 +183,7 @@ till the day before; so it will be impossible for her to introduce him,
 for she will not know him herself."
 
 "Then, my dear, you may have the advantage of your friend, and introduce
-Mr. Bingley to __her__."
+Mr. Bingley to _her_."
 
 "Impossible, Mr. Bennet, impossible, when I am not acquainted with him
 myself; how can you be so teasing?"
@@ -198,7 +200,7 @@ nonsense!"
 
 "What can be the meaning of that emphatic exclamation?" cried he. "Do
 you consider the forms of introduction, and the stress that is laid on
-them, as nonsense? I cannot quite agree with you __there__. What say
+them, as nonsense? I cannot quite agree with you _there_. What say
 you, Mary? For you are a young lady of deep reflection, I know, and read
 great books and make extracts."
 
@@ -209,7 +211,7 @@ Bingley."
 
 "I am sick of Mr. Bingley," cried his wife.
 
-"I am sorry to hear __that__; but why did not you tell me that before?
+"I am sorry to hear _that_; but why did not you tell me that before?
 If I had known as much this morning I certainly would not have called on
 him. It is very unlucky; but as I have actually paid the visit, we
 cannot escape the acquaintance now."
@@ -243,7 +245,8 @@ The rest of the evening was spent in conjecturing how soon he would
 return Mr. Bennet's visit, and determining when they should ask him to
 dinner.
 
-== Chapter 3
+
+## Chapter 3
 
 Not all that Mrs. Bennet, however, with the assistance of her five
 daughters, could ask on the subject, was sufficient to draw from her
@@ -339,7 +342,7 @@ kingdom! Upon my honour, I never met with so many pleasant girls in my
 life as I have this evening; and there are several of them you see
 uncommonly pretty."
 
-"__You__ are dancing with the only handsome girl in the room," said Mr.
+"_You_ are dancing with the only handsome girl in the room," said Mr.
 Darcy, looking at the eldest Miss Bennet.
 
 "Oh! She is the most beautiful creature I ever beheld! But there is one
@@ -348,7 +351,7 @@ dare say very agreeable. Do let me ask my partner to introduce you."
 
 "Which do you mean?" and turning round he looked for a moment at
 Elizabeth, till catching her eye, he withdrew his own and coldly said:
-"She is tolerable, but not handsome enough to tempt __me__; I am in no
+"She is tolerable, but not handsome enough to tempt _me_; I am in no
 humour at present to give consequence to young ladies who are slighted
 by other men. You had better return to your partner and enjoy her
 smiles, for you are wasting your time with me."
@@ -379,7 +382,7 @@ different story to hear.
 delightful evening, a most excellent ball. I wish you had been there.
 Jane was so admired, nothing could be like it. Everybody said how well
 she looked; and Mr. Bingley thought her quite beautiful, and danced with
-her twice! Only think of __that__, my dear; he actually danced with her
+her twice! Only think of _that_, my dear; he actually danced with her
 twice! and she was the only creature in the room that he asked a second
 time. First of all, he asked Miss Lucas. I was so vexed to see him stand
 up with her! But, however, he did not admire her at all; indeed, nobody
@@ -387,9 +390,9 @@ can, you know; and he seemed quite struck with Jane as she was going
 down the dance. So he inquired who she was, and got introduced, and
 asked her for the two next. Then the two third he danced with Miss King,
 and the two fourth with Maria Lucas, and the two fifth with Jane again,
-and the two sixth with Lizzy, and the __Boulanger__—"
+and the two sixth with Lizzy, and the _Boulanger_—"
 
-"If he had had any compassion for __me__," cried her husband
+"If he had had any compassion for _me_," cried her husband
 impatiently, "he would not have danced half so much! For God's sake, say
 no more of his partners. Oh that he had sprained his ankle in the first
 dance!"
@@ -411,8 +414,8 @@ him! He walked here, and he walked there, fancying himself so very
 great! Not handsome enough to dance with! I wish you had been there, my
 dear, to have given him one of your set-downs. I quite detest the man."
 
- 
-== Chapter 4
+
+## Chapter 4
 
 When Jane and Elizabeth were alone, the former, who had been cautious in
 her praise of Mr. Bingley before, expressed to her sister just how very
@@ -525,7 +528,8 @@ would not object to know more of. Miss Bennet was therefore established
 as a sweet girl, and their brother felt authorized by such commendation
 to think of her as he chose.
 
-== Chapter 5
+
+## Chapter 5
 
 Within a short walk of Longbourn lived a family with whom the Bennets
 were particularly intimate. Sir William Lucas had been formerly in trade
@@ -551,14 +555,14 @@ That the Miss Lucases and the Miss Bennets should meet to talk over a
 ball was absolutely necessary; and the morning after the assembly
 brought the former to Longbourn to hear and to communicate.
 
-"__You__ began the evening well, Charlotte," said Mrs. Bennet with civil
-self-command to Miss Lucas. "__You__ were Mr. Bingley's first choice."
+"_You_ began the evening well, Charlotte," said Mrs. Bennet with civil
+self-command to Miss Lucas. "_You_ were Mr. Bingley's first choice."
 
 "Yes; but he seemed to like his second better."
 
 "Oh! you mean Jane, I suppose, because he danced with her twice. To be
 sure that _did_ seem as if he admired her—indeed I rather believe he
-__did__—I heard something about it—but I hardly know what—something
+_did_—I heard something about it—but I hardly know what—something
 about Mr. Robinson."
 
 "Perhaps you mean what I overheard between him and Mr. Robinson; did not
@@ -571,9 +575,9 @@ beyond a doubt; there cannot be two opinions on that point.'"
 "Upon my word! Well, that is very decided indeed—that does seem as
 if—but, however, it may all come to nothing, you know."
 
-"__My__ overhearings were more to the purpose than __yours__, Eliza,"
+"_My_ overhearings were more to the purpose than _yours_, Eliza,"
 said Charlotte. "Mr. Darcy is not so well worth listening to as his
-friend, is he?—poor Eliza!—to be only just __tolerable__."
+friend, is he?—poor Eliza!—to be only just _tolerable_."
 
 "I beg you would not put it into Lizzy's head to be vexed by his
 ill-treatment, for he is such a disagreeable man, that it would be quite
@@ -600,7 +604,7 @@ the ball in a hack chaise."
 "I do not mind his not talking to Mrs. Long," said Miss Lucas, "but I
 wish he had danced with Eliza."
 
-"Another time, Lizzy," said her mother, "I would not dance with __him__,
+"Another time, Lizzy," said her mother, "I would not dance with _him_,
 if I were you."
 
 "I believe, ma'am, I may safely promise you _never_ to dance with him."
@@ -612,7 +616,7 @@ should think highly of himself. If I may so express it, he has a _right_
 to be proud."
 
 "That is very true," replied Elizabeth, "and I could easily forgive
-_his_ pride, if he had not mortified __mine__."
+_his_ pride, if he had not mortified _mine_."
 
 "Pride," observed Mary, who piqued herself upon the solidity of her
 reflections, "is a very common failing, I believe. By all that I have
@@ -635,7 +639,8 @@ directly."
 The boy protested that she should not; she continued to declare that she
 would, and the argument ended only with the visit.
 
-== Chapter 6
+
+## Chapter 6
 
 The ladies of Longbourn soon waited on those of Netherfield. The visit
 was soon returned in due form. Miss Bennet's pleasing manners grew on
@@ -899,12 +904,8 @@ He listened to her with perfect indifference while she chose to
 entertain herself in this manner; and as his composure convinced her
 that all was safe, her wit flowed long.
 
- 
- 
- 
- 
-== Chapter 7
 
+## Chapter 7
 
 Mr. Bennet's property consisted almost entirely in an estate of two
 thousand a year, which, unfortunately for his daughters, was entailed,
@@ -1000,7 +1001,7 @@ gentlemen are to dine with the officers.—Yours ever,
 "CAROLINE BINGLEY"
 
 "With the officers!" cried Lydia. "I wonder my aunt did not tell us of
-__that__."
+_that_."
 
 "Dining out," said Mrs. Bennet, "that is very unlucky."
 
@@ -1135,8 +1136,8 @@ Elizabeth most thankfully consented, and a servant was dispatched to
 Longbourn to acquaint the family with her stay and bring back a supply
 of clothes.
 
-== Chapter 8
 
+## Chapter 8
 
 At five o'clock the two ladies retired to dress, and at half-past six
 Elizabeth was summoned to dinner. To the civil inquiries which then
@@ -1182,7 +1183,7 @@ all lost upon me. I thought Miss Elizabeth Bennet looked remarkably well
 when she came into the room this morning. Her dirty petticoat quite
 escaped my notice."
 
-"__You__ observed it, Mr. Darcy, I am sure," said Miss Bingley; "and I
+"_You_ observed it, Mr. Darcy, I am sure," said Miss Bingley; "and I
 am inclined to think that you would not wish to see _your_ sister make
 such an exhibition."
 
@@ -1339,7 +1340,7 @@ add something more substantial, in the improvement of her mind by
 extensive reading."
 
 "I am no longer surprised at your knowing _only_ six accomplished women.
-I rather wonder now at your knowing __any__."
+I rather wonder now at your knowing _any_."
 
 "Are you so severe upon your own sex as to doubt the possibility of all
 this?"
@@ -1380,12 +1381,8 @@ however, by duets after supper, while he could find no better relief to
 his feelings than by giving his housekeeper directions that every
 attention might be paid to the sick lady and her sister.
 
- 
- 
- 
- 
-== Chapter 9
 
+## Chapter 9
 
 Elizabeth passed the chief of the night in her sister's room, and in the
 morning had the pleasure of being able to send a tolerable answer to the
@@ -1426,7 +1423,7 @@ know what would become of her, for she is very ill indeed, and suffers a
 vast deal, though with the greatest patience in the world, which is
 always the way with her, for she has, without exception, the sweetest
 temper I have ever met with. I often tell my other girls they are
-nothing to __her__. You have a sweet room here, Mr. Bingley, and a
+nothing to _her_. You have a sweet room here, Mr. Bingley, and a
 charming prospect over the gravel walk. I do not know a place in the
 country that is equal to Netherfield. You will not think of quitting it
 in a hurry, I hope, though you have but a short lease."
@@ -1573,15 +1570,11 @@ Forster it will be quite a shame if he does not."
 Mrs. Bennet and her daughters then departed, and Elizabeth returned
 instantly to Jane, leaving her own and her relations' behaviour to the
 remarks of the two ladies and Mr. Darcy; the latter of whom, however,
-could not be prevailed on to join in their censure of __her__, in spite
-of all Miss Bingley's witticisms on __fine eyes__.
+could not be prevailed on to join in their censure of _her_, in spite
+of all Miss Bingley's witticisms on _fine eyes_.
 
- 
- 
- 
- 
-== Chapter 10
 
+## Chapter 10
 
 The day passed much as the day before had done. Mrs. Hurst and Miss
 Bingley had spent some hours of the morning with the invalid, who
@@ -1857,12 +1850,8 @@ She then ran gaily off, rejoicing as she rambled about, in the hope of
 being at home again in a day or two. Jane was already so much recovered
 as to intend leaving her room for a couple of hours that evening.
 
- 
- 
- 
- 
-== Chapter 11
 
+## Chapter 11
 
 When the ladies removed after dinner, Elizabeth ran up to her sister,
 and seeing her well guarded from cold, attended her into the
@@ -1977,8 +1966,8 @@ abominable. How shall we punish him for such a speech?"
 can all plague and punish one another. Tease him—laugh at him. Intimate
 as you are, you must know how it is to be done."
 
-"But upon my honour, I do __not__. I do assure you that my intimacy has
-not yet taught me __that__. Tease calmness of manner and presence of
+"But upon my honour, I do _not_. I do assure you that my intimacy has
+not yet taught me _that_. Tease calmness of manner and presence of
 mind! No, no; I feel he may defy us there. And as to laughter, we will
 not expose ourselves, if you please, by attempting to laugh without a
 subject. Mr. Darcy may hug himself."
@@ -1994,7 +1983,7 @@ be rendered ridiculous by a person whose first object in life is a
 joke."
 
 "Certainly," replied Elizabeth—"there are such people, but I hope I am
-not one of __them__. I hope I never ridicule what is wise and good.
+not one of _them_. I hope I never ridicule what is wise and good.
 Follies and nonsense, whims and inconsistencies, _do_ divert me, I own,
 and I laugh at them whenever I can. But these, I suppose, are precisely
 what you are without."
@@ -2025,7 +2014,7 @@ feelings are not puffed about with every attempt to move them. My temper
 would perhaps be called resentful. My good opinion once lost, is lost
 forever."
 
-"__That__ is a failing indeed!" cried Elizabeth. "Implacable resentment
+"_That_ is a failing indeed!" cried Elizabeth. "Implacable resentment
 _is_ a shade in a character. But you have chosen your fault well. I
 really cannot _laugh_ at it. You are safe from me."
 
@@ -2045,12 +2034,8 @@ Her sister had not the smallest objection, and the pianoforte was
 opened; and Darcy, after a few moments' recollection, was not sorry for
 it. He began to feel the danger of paying Elizabeth too much attention.
 
- 
- 
- 
- 
-== Chapter 12
 
+## Chapter 12
 
 In consequence of an agreement between the sisters, Elizabeth wrote the
 next morning to their mother, to beg that the carriage might be sent for
@@ -2082,7 +2067,7 @@ she felt herself to be right.
 
 To Mr. Darcy it was welcome intelligence—Elizabeth had been at
 Netherfield long enough. She attracted him more than he liked—and Miss
-Bingley was uncivil to __her__, and more teasing than usual to himself.
+Bingley was uncivil to _her_, and more teasing than usual to himself.
 He wisely resolved to be particularly careful that no sign of admiration
 should _now_ escape him, nothing that could elevate her with the hope of
 influencing his felicity; sensible that if such an idea had been
@@ -2117,12 +2102,8 @@ in the regiment since the preceding Wednesday; several of the officers
 had dined lately with their uncle, a private had been flogged, and it
 had actually been hinted that Colonel Forster was going to be married.
 
- 
- 
- 
- 
-== Chapter 13
 
+## Chapter 13
 
 "I hope, my dear," said Mr. Bennet to his wife, as they were at
 breakfast the next morning, "that you have ordered a good dinner to-day,
@@ -2275,7 +2256,7 @@ oddly."
 "You allude, perhaps, to the entail of this estate."
 
 "Ah! sir, I do indeed. It is a grievous affair to my poor girls, you
-must confess. Not that I mean to find fault with __you__, for such
+must confess. Not that I mean to find fault with _you_, for such
 things I know are all chance in this world. There is no knowing how
 estates will go when once they come to be entailed."
 
@@ -2299,12 +2280,8 @@ begged pardon for having displeased her. In a softened tone she declared
 herself not at all offended; but he continued to apologise for about a
 quarter of an hour.
 
- 
- 
- 
- 
-== Chapter 14
 
+## Chapter 14
 
 During dinner, Mr. Bennet scarcely spoke at all; but when the servants
 were withdrawn, he thought it time to have some conversation with his
@@ -2421,12 +2398,8 @@ young cousin no ill-will, and should never resent her behaviour as any
 affront, seated himself at another table with Mr. Bennet, and prepared
 for backgammon.
 
- 
- 
- 
- 
-== Chapter 15
 
+## Chapter 15
 
 Mr. Collins was not a sensible man, and the deficiency of nature had
 been but little assisted by education or society; the greatest part of
@@ -2586,12 +2559,8 @@ utterly unknown to her before. Something, he supposed, might be
 attributed to his connection with them, but yet he had never met with so
 much attention in the whole course of his life.
 
- 
- 
- 
- 
-== Chapter 16
 
+## Chapter 16
 
 As no objection was made to the young people's engagement with their
 aunt, and all Mr. Collins's scruples of leaving Mr. and Mrs. Bennet for
@@ -2714,7 +2683,7 @@ was at Netherfield. I hope your plans in favour of the ——shire will not
 be affected by his being in the neighbourhood."
 
 "Oh! no—it is not for _me_ to be driven away by Mr. Darcy. If _he_
-wishes to avoid seeing __me__, he must go. We are not on friendly terms,
+wishes to avoid seeing _me_, he must go. We are not on friendly terms,
 and it always gives me pain to meet him, but I have no reason for
 avoiding _him_ but what I might proclaim before all the world, a sense
 of very great ill-usage, and most painful regrets at his being what he
@@ -2773,8 +2742,8 @@ of men, and that he hates me."
 
 "This is quite shocking! He deserves to be publicly disgraced."
 
-"Some time or other he _will_ be—but it shall not be by __me__. Till I
-can forget his father, I can never defy or expose __him__."
+"Some time or other he _will_ be—but it shall not be by _me_. Till I
+can forget his father, I can never defy or expose _him_."
 
 Elizabeth honoured him for such feelings, and thought him handsomer than
 ever as he expressed them.
@@ -2805,7 +2774,7 @@ be just to him."
 
 Elizabeth was again deep in thought, and after a time exclaimed, "To
 treat in such a manner the godson, the friend, the favourite of his
-father!" She could have added, "A young man, too, like __you__, whose
+father!" She could have added, "A young man, too, like _you_, whose
 very countenance may vouch for your being amiable"—but she contented
 herself with, "and one, too, who had probably been his companion from
 childhood, connected together, as I think you said, in the closest
@@ -2822,7 +2791,7 @@ intimate, confidential friend. Mr. Darcy often acknowledged himself to
 be under the greatest obligations to my father's active superintendence,
 and when, immediately before my father's death, Mr. Darcy gave him a
 voluntary promise of providing for me, I am convinced that he felt it to
-be as much a debt of gratitude to __him__, as of his affection to
+be as much a debt of gratitude to _him_, as of his affection to
 myself."
 
 "How strange!" cried Elizabeth. "How abominable! I wonder that the very
@@ -2950,12 +2919,8 @@ at whist, enumerating all the dishes at supper, and repeatedly fearing
 that he crowded his cousins, had more to say than he could well manage
 before the carriage stopped at Longbourn House.
 
- 
- 
- 
- 
-== Chapter 17
 
+## Chapter 17
 
 Elizabeth related to Jane the next day what had passed between Mr.
 Wickham and herself. Jane listened with astonishment and concern; she
@@ -3069,7 +3034,7 @@ civilities toward herself, and heard his frequent attempt at a
 compliment on her wit and vivacity; and though more astonished than
 gratified herself by this effect of her charms, it was not long before
 her mother gave her to understand that the probability of their marriage
-was extremely agreeable to __her__. Elizabeth, however, did not choose
+was extremely agreeable to _her_. Elizabeth, however, did not choose
 to take the hint, being well aware that a serious dispute must be the
 consequence of any reply. Mr. Collins might never make the offer, and
 till he did, it was useless to quarrel about him.
@@ -3085,12 +3050,8 @@ improvement of her acquaintance with Mr. Wickham; and nothing less than
 a dance on Tuesday, could have made such a Friday, Saturday, Sunday, and
 Monday endurable to Kitty and Lydia.
 
- 
- 
- 
- 
-== Chapter 18
 
+## Chapter 18
 
 Till Elizabeth entered the drawing-room at Netherfield, and looked in
 vain for Mr. Wickham among the cluster of red coats there assembled, a
@@ -3175,7 +3136,7 @@ _now_ we may be silent."
 
 "Sometimes. One must speak a little, you know. It would look odd to be
 entirely silent for half an hour together; and yet for the advantage of
-__some__, conversation ought to be so arranged, as that they may have
+_some_, conversation ought to be so arranged, as that they may have
 the trouble of saying as little as possible."
 
 "Are you consulting your own feelings in the present case, or do you
@@ -3188,7 +3149,7 @@ something that will amaze the whole room, and be handed down to
 posterity with all the eclat of a proverb."
 
 "This is no very striking resemblance of your own character, I am sure,"
-said he. "How near it may be to __mine__, I cannot pretend to say. _You_
+said he. "How near it may be to _mine_, I cannot pretend to say. _You_
 think it a faithful portrait undoubtedly."
 
 "I must not decide on my own performance."
@@ -3256,8 +3217,8 @@ with a look of doubt.
 thoughts had wandered far from the subject, as soon afterwards appeared
 by her suddenly exclaiming, "I remember hearing you once say, Mr. Darcy,
 that you hardly ever forgave, that your resentment once created was
-unappeasable. You are very cautious, I suppose, as to its __being
-created__."
+unappeasable. You are very cautious, I suppose, as to its _being
+created_."
 
 "I am," said he, with a firm voice.
 
@@ -3316,7 +3277,7 @@ considering his descent, one could not expect much better."
 
 "His guilt and his descent appear by your account to be the same," said
 Elizabeth angrily; "for I have heard you accuse him of nothing worse
-than of being the son of Mr. Darcy's steward, and of __that__, I can
+than of being the son of Mr. Darcy's steward, and of _that_, I can
 assure you, he informed me himself."
 
 "I beg your pardon," replied Miss Bingley, turning away with a sneer.
@@ -3390,7 +3351,7 @@ ignorance of the connection must plead my apology."
 "You are not going to introduce yourself to Mr. Darcy!"
 
 "Indeed I am. I shall entreat his pardon for not having done it earlier.
-I believe him to be Lady Catherine's __nephew__. It will be in my power
+I believe him to be Lady Catherine's _nephew_. It will be in my power
 to assure him that her ladyship was quite well yesterday se'nnight."
 
 Elizabeth tried hard to dissuade him from such a scheme, assuring him
@@ -3606,15 +3567,11 @@ see her daughter settled at Netherfield in the course of three or four
 months. Of having another daughter married to Mr. Collins, she thought
 with equal certainty, and with considerable, though not equal, pleasure.
 Elizabeth was the least dear to her of all her children; and though the
-man and the match were quite good enough for __her__, the worth of each
+man and the match were quite good enough for _her_, the worth of each
 was eclipsed by Mr. Bingley and Netherfield.
 
- 
- 
- 
- 
-== Chapter 19
 
+## Chapter 19
 
 The next day opened a new scene at Longbourn. Mr. Collins made his
 declaration in form. Having resolved to do it without loss of time, as
@@ -3680,7 +3637,7 @@ too!) on this subject; and it was but the very Saturday night before I
 left Hunsford—between our pools at quadrille, while Mrs. Jenkinson was
 arranging Miss de Bourgh's footstool, that she said, 'Mr. Collins, you
 must marry. A clergyman like you must marry. Choose properly, choose a
-gentlewoman for _my_ sake; and for your __own__, let her be an active,
+gentlewoman for _my_ sake; and for your _own_, let her be an active,
 useful sort of person, not brought up high, but able to make a small
 income go a good way. This is my advice. Find such a woman as soon as
 you can, bring her to Hunsford, and I will visit her.' Allow me, by the
@@ -3800,12 +3757,8 @@ encouragement, to apply to her father, whose negative might be uttered
 in such a manner as to be decisive, and whose behaviour at least could
 not be mistaken for the affectation and coquetry of an elegant female.
 
- 
- 
- 
- 
-== Chapter 20
 
+## Chapter 20
 
 Mr. Collins was not left long to the silent contemplation of his
 successful love; for Mrs. Bennet, having dawdled about in the vestibule
@@ -3846,7 +3799,7 @@ She would not give him time to reply, but hurrying instantly to her
 husband, called out as she entered the library, "Oh! Mr. Bennet, you are
 wanted immediately; we are all in an uproar. You must come and make
 Lizzy marry Mr. Collins, for she vows she will not have him, and if you
-do not make haste he will change his mind and not have __her__."
+do not make haste he will change his mind and not have _her_."
 
 Mr. Bennet raised his eyes from his book as she entered, and fixed them
 on her face with a calm unconcern which was not in the least altered by
@@ -3883,7 +3836,7 @@ accepting it. Is it not so, Mrs. Bennet?"
 "An unhappy alternative is before you, Elizabeth. From this day you must
 be a stranger to one of your parents. Your mother will never see you
 again if you do _not_ marry Mr. Collins, and I will never see you again
-if you __do__."
+if you _do_."
 
 Elizabeth could not but smile at such a conclusion of such a beginning,
 but Mrs. Bennet, who had persuaded herself that her husband regarded the
@@ -3979,12 +3932,8 @@ My object has been to secure an amiable companion for myself, with due
 consideration for the advantage of all your family, and if my _manner_
 has been at all reprehensible, I here beg leave to apologise."
 
- 
- 
- 
- 
-== Chapter 21
 
+## Chapter 21
 
 The discussion of Mr. Collins's offer was now nearly at an end, and
 Elizabeth had only to suffer from the uncomfortable feelings necessarily
@@ -4083,11 +4032,11 @@ whom we shall deprive you."
 "It is evident by this," added Jane, "that he comes back no more this
 winter."
 
-"It is only evident that Miss Bingley does not mean that he __should__."
+"It is only evident that Miss Bingley does not mean that he _should_."
 
 "Why will you think so? It must be his own doing. He is his own master.
-But you do not know __all__. I _will_ read you the passage which
-particularly hurts me. I will have no reserves from __you__."
+But you do not know _all_. I _will_ read you the passage which
+particularly hurts me. I will have no reserves from _you_."
 
 "Mr. Darcy is impatient to see his sister; and, to confess the truth,
 _we_ are scarcely less eager to meet her again. I really do not think
@@ -4191,12 +4140,8 @@ conclusion of all was the comfortable declaration, that though he had
 been invited only to a family dinner, she would take care to have two
 full courses.
 
- 
- 
- 
- 
-== Chapter 22
 
+## Chapter 22
 
 The Bennets were engaged to dine with the Lucases and again during the
 chief of the day was Miss Lucas so kind as to listen to Mr. Collins.
@@ -4366,12 +4311,8 @@ and sunk in her esteem, was added the distressing conviction that it was
 impossible for that friend to be tolerably happy in the lot she had
 chosen.
 
- 
- 
- 
- 
-== Chapter 23
 
+## Chapter 23
 
 Elizabeth was sitting with her mother and sisters, reflecting on what
 she had heard, and doubting whether she was authorised to mention it,
@@ -4518,7 +4459,7 @@ complained bitterly of all this to her husband.
 
 "Indeed, Mr. Bennet," said she, "it is very hard to think that Charlotte
 Lucas should ever be mistress of this house, that I should be forced to
-make way for __her__, and live to see her take her place in it!"
+make way for _her_, and live to see her take her place in it!"
 
 "My dear, do not give way to such gloomy thoughts. Let us hope for
 better things. Let us flatter ourselves that I may be the survivor."
@@ -4543,12 +4484,8 @@ Why should _he_ have it more than anybody else?"
 
 "I leave it to yourself to determine," said Mr. Bennet.
 
- 
- 
- 
- 
-== Chapter 24
 
+## Chapter 24
 
 Miss Bingley's letter arrived, and put an end to doubt. The very first
 sentence conveyed the assurance of their being all settled in London for
@@ -4749,12 +4686,8 @@ Hertfordshire; her mild and steady candour always pleaded for
 allowances, and urged the possibility of mistakes—but by everybody else
 Mr. Darcy was condemned as the worst of men.
 
- 
- 
- 
- 
-== Chapter 25
 
+## Chapter 25
 
 After a week spent in professions of love and schemes of felicity, Mr.
 Collins was called from his amiable Charlotte by the arrival of
@@ -4813,7 +4746,7 @@ for a few weeks, and when accident separates them, so easily forgets
 her, that these sort of inconsistencies are very frequent."
 
 "An excellent consolation in its way," said Elizabeth, "but it will not
-do for __us__. We do not suffer by __accident__. It does not often
+do for _us_. We do not suffer by _accident_. It does not often
 happen that the interference of friends will persuade a young man of
 independent fortune to think no more of a girl whom he was violently in
 love with only a few days before."
@@ -4833,7 +4766,7 @@ finer symptoms? Is not general incivility the very essence of love?"
 
 "Oh, yes!—of that kind of love which I suppose him to have felt. Poor
 Jane! I am sorry for her, because, with her disposition, she may not get
-over it immediately. It had better have happened to __you__, Lizzy; you
+over it immediately. It had better have happened to _you_, Lizzy; you
 would have laughed yourself out of it sooner. But do you think she would
 be prevailed upon to go back with us? Change of scene might be of
 service—and perhaps a little relief from home may be as useful as
@@ -4909,12 +4842,8 @@ disposition when quite a lad which might agree with it, and was
 confident at last that she recollected having heard Mr. Fitzwilliam
 Darcy formerly spoken of as a very proud, ill-natured boy.
 
- 
- 
- 
- 
-== Chapter 26
 
+## Chapter 26
 
 Mrs. Gardiner's caution to Elizabeth was punctually and kindly given on
 the first favourable opportunity of speaking to her alone; after
@@ -4925,7 +4854,7 @@ are warned against it; and, therefore, I am not afraid of speaking
 openly. Seriously, I would have you be on your guard. Do not involve
 yourself or endeavour to involve him in an affection which the want of
 fortune would make so very imprudent. I have nothing to say against
-__him__; he is a most interesting young man; and if he had the fortune
+_him_; he is a most interesting young man; and if he had the fortune
 he ought to have, I should think you could not do better. But as it is,
 you must not let your fancy run away with you. You have sense, and we
 all expect you to use it. Your father would depend on _your_ resolution
@@ -4962,7 +4891,7 @@ I will do my best."
 often. At least, you should not _remind_ your mother of inviting him."
 
 "As I did the other day," said Elizabeth with a conscious smile: "very
-true, it will be wise in me to refrain from __that__. But do not imagine
+true, it will be wise in me to refrain from _that_. But do not imagine
 that he is always here so often. It is on your account that he has been
 so frequently invited this week. You know my mother's ideas as to the
 necessity of constant company for her friends. But really, and upon my
@@ -4978,7 +4907,7 @@ by the Gardiners and Jane; but as he took up his abode with the Lucases,
 his arrival was no great inconvenience to Mrs. Bennet. His marriage was
 now fast approaching, and she was at length so far resigned as to think
 it inevitable, and even repeatedly to say, in an ill-natured tone, that
-she "__wished__ they might be happy." Thursday was to be the wedding
+she "_wished_ they might be happy." Thursday was to be the wedding
 day, and on Wednesday Miss Lucas paid her farewell visit; and when she
 rose to take leave, Elizabeth, ashamed of her mother's ungracious and
 reluctant good wishes, and sincerely affected herself, accompanied her
@@ -4986,7 +4915,7 @@ out of the room. As they went downstairs together, Charlotte said:
 
 "I shall depend on hearing from you very often, Eliza."
 
-"__That__ you certainly shall."
+"_That_ you certainly shall."
 
 "And I have another favour to ask you. Will you come and see me?"
 
@@ -5126,7 +5055,7 @@ circumstances, she thus went on: "I am now convinced, my dear aunt, that
 I have never been much in love; for had I really experienced that pure
 and elevating passion, I should at present detest his very name, and
 wish him all manner of evil. But my feelings are not only cordial
-towards __him__; they are even impartial towards Miss King. I cannot
+towards _him_; they are even impartial towards Miss King. I cannot
 find out that I hate her at all, or that I am in the least unwilling to
 think her a very good sort of girl. There can be no love in all this. My
 watchfulness has been effectual; and though I certainly should be a more
@@ -5137,12 +5066,8 @@ his defection much more to heart than I do. They are young in the ways
 of the world, and not yet open to the mortifying conviction that
 handsome young men must have something to live on as well as the plain."
 
- 
- 
- 
- 
-== Chapter 27
 
+## Chapter 27
 
 With no greater events than these in the Longbourn family, and otherwise
 diversified by little beyond the walks to Meryton, sometimes dirty and
@@ -5240,9 +5165,9 @@ so soon after this event."
 
 "A man in distressed circumstances has not time for all those elegant
 decorums which other people may observe. If _she_ does not object to it,
-why should __we__?"
+why should _we_?"
 
-"__Her__ not objecting does not justify __him__. It only shows her being
+"_Her_ not objecting does not justify _him_. It only shows her being
 deficient in something herself—sense or feeling."
 
 "Well," cried Elizabeth, "have it as you choose. _He_ shall be
@@ -5281,12 +5206,8 @@ we begin quarreling about its relative situation. Let _our_ first
 effusions be less insupportable than those of the generality of
 travellers."
 
- 
- 
- 
- 
-== Chapter 28
 
+## Chapter 28
 
 Every object in the next day's journey was new and interesting to
 Elizabeth; and her spirits were in a state of enjoyment; for she had
@@ -5435,12 +5356,8 @@ girls than he began to congratulate them on their good fortune, which
 Charlotte explained by letting them know that the whole party was asked
 to dine at Rosings the next day.
 
- 
- 
- 
- 
-== Chapter 29
 
+## Chapter 29
 
 Mr. Collins's triumph, in consequence of this invitation, was complete.
 The power of displaying the grandeur of his patroness to his wondering
@@ -5701,12 +5618,8 @@ commendation, though costing her some trouble, could by no means satisfy
 Mr. Collins, and he was very soon obliged to take her ladyship's praise
 into his own hands.
 
- 
- 
- 
- 
-== Chapter 30
 
+## Chapter 30
 
 Sir William stayed only a week at Hunsford, but his visit was long
 enough to convince him of his daughter's being most comfortably settled,
@@ -5825,12 +5738,8 @@ answered that he had never been so fortunate as to meet Miss Bennet. The
 subject was pursued no farther, and the gentlemen soon afterwards went
 away.
 
- 
- 
- 
- 
-== Chapter 31
 
+## Chapter 31
 
 Colonel Fitzwilliam's manners were very much admired at the Parsonage,
 and the ladies all felt that he must add considerably to the pleasures
@@ -5989,7 +5898,7 @@ Elizabeth looked at Darcy to see how cordially he assented to his
 cousin's praise; but neither at that moment nor at any other could she
 discern any symptom of love; and from the whole of his behaviour to Miss
 de Bourgh she derived this comfort for Miss Bingley, that he might have
-been just as likely to marry __her__, had she been his relation.
+been just as likely to marry _her_, had she been his relation.
 
 Lady Catherine continued her remarks on Elizabeth's performance, mixing
 with them many instructions on execution and taste. Elizabeth received
@@ -5997,12 +5906,8 @@ them with all the forbearance of civility, and, at the request of the
 gentlemen, remained at the instrument till her ladyship's carriage was
 ready to take them all home.
 
- 
- 
- 
- 
-== Chapter 32
 
+## Chapter 32
 
 Elizabeth was sitting by herself the next morning, and writing to Jane
 while Mrs. Collins and Maria were gone on business into the village,
@@ -6095,12 +6000,12 @@ Netherfield, and she blushed as she answered:
 family. The far and the near must be relative, and depend on many
 varying circumstances. Where there is fortune to make the expenses of
 travelling unimportant, distance becomes no evil. But that is not the
-case __here__. Mr. and Mrs. Collins have a comfortable income, but not
+case _here_. Mr. and Mrs. Collins have a comfortable income, but not
 such a one as will allow of frequent journeys—and I am persuaded my
 friend would not call herself _near_ her family under less than _half_
 the present distance."
 
-Mr. Darcy drew his chair a little towards her, and said, "__You__ cannot
+Mr. Darcy drew his chair a little towards her, and said, "_You_ cannot
 have a right to such very strong local attachment. _You_ cannot have
 been always at Longbourn."
 
@@ -6170,12 +6075,8 @@ certainly admired her, and his situation in life was most eligible; but,
 to counterbalance these advantages, Mr. Darcy had considerable patronage
 in the church, and his cousin could have none at all.
 
- 
- 
- 
- 
-== Chapter 33
 
+## Chapter 33
 
 More than once did Elizabeth, in her ramble within the park,
 unexpectedly meet Mr. Darcy. She felt all the perverseness of the
@@ -6383,12 +6284,8 @@ as possible prevented her husband from pressing her; but Mr. Collins
 could not conceal his apprehension of Lady Catherine's being rather
 displeased by her staying at home.
 
- 
- 
- 
- 
-== Chapter 34
 
+## Chapter 34
 
 When they were gone, Elizabeth, as if intending to exasperate herself as
 much as possible against Mr. Darcy, chose for her employment the
@@ -6494,7 +6391,7 @@ was short, and he listened without attempting to interrupt her while she
 continued:
 
 "I have every reason in the world to think ill of you. No motive can
-excuse the unjust and ungenerous part you acted __there__. You dare not,
+excuse the unjust and ungenerous part you acted _there_. You dare not,
 you cannot deny, that you have been the principal, if not the only means
 of dividing them from each other—of exposing one to the censure of the
 world for caprice and instability, and the other to its derision for
@@ -6606,12 +6503,8 @@ She continued in very agitated reflections till the sound of Lady
 Catherine's carriage made her feel how unequal she was to encounter
 Charlotte's observation, and hurried her away to her room.
 
- 
- 
- 
- 
-== Chapter 35
 
+## Chapter 35
 
 Elizabeth awoke the next morning to the same thoughts and meditations
 which had at length closed her eyes. She could not yet recover from the
@@ -6875,12 +6768,8 @@ morning. I will only add, God bless you.
 
 "FITZWILLIAM DARCY"
 
- 
- 
- 
- 
-== Chapter 36
 
+## Chapter 36
 
 If Elizabeth, when Mr. Darcy gave her the letter, did not expect it to
 contain a renewal of his offers, she had formed no expectation at all of
@@ -7069,12 +6958,8 @@ till she could be found. Elizabeth could but just _affect_ concern in
 missing him; she really rejoiced at it. Colonel Fitzwilliam was no
 longer an object; she could think only of her letter.
 
- 
- 
- 
- 
-== Chapter 37
 
+## Chapter 37
 
 The two gentlemen left Rosings the next morning, and Mr. Collins having
 been in waiting near the lodges, to make them his parting obeisance, was
@@ -7216,12 +7101,8 @@ a good journey, and invited them to come to Hunsford again next year;
 and Miss de Bourgh exerted herself so far as to curtsey and hold out her
 hand to both.
 
- 
- 
- 
- 
-== Chapter 38
 
+## Chapter 38
 
 On Saturday morning Elizabeth and Mr. Collins met for breakfast a few
 minutes before the others appeared; and he took the opportunity of
@@ -7332,12 +7213,8 @@ and her fear, if she once entered on the subject, of being hurried into
 repeating something of Bingley which might only grieve her sister
 further.
 
- 
- 
- 
- 
-== Chapter 39
 
+## Chapter 39
 
 It was the second week in May, in which the three young ladies set out
 together from Gracechurch Street for the town of ——, in Hertfordshire;
@@ -7374,7 +7251,7 @@ and I dare say would hardly cost anything at all. Mamma would like to go
 too of all things! Only think what a miserable summer else we shall
 have!"
 
-"Yes," thought Elizabeth, "__that__ would be a delightful scheme indeed,
+"Yes," thought Elizabeth, "_that_ would be a delightful scheme indeed,
 and completely do for us at once. Good Heaven! Brighton, and a whole
 campful of soldiers, to us, who have been overset already by one poor
 regiment of militia, and the monthly balls of Meryton!"
@@ -7401,7 +7278,7 @@ imprudent as to fortune."
 
 "But I hope there is no strong attachment on either side," said Jane.
 
-"I am sure there is not on __his__. I will answer for it, he never cared
+"I am sure there is not on _his_. I will answer for it, he never cared
 three straws about her—who could about such a nasty little freckled
 thing?"
 
@@ -7476,7 +7353,7 @@ anybody might have heard us ten miles off!"
 To this Mary very gravely replied, "Far be it from me, my dear sister,
 to depreciate such pleasures! They would doubtless be congenial with the
 generality of female minds. But I confess they would have no charms for
-__me__—I should infinitely prefer a book."
+_me_—I should infinitely prefer a book."
 
 But of this answer Lydia heard not a word. She seldom listened to
 anybody for more than half a minute, and never attended to Mary at all.
@@ -7498,12 +7375,8 @@ father had not the smallest intention of yielding; but his answers were
 at the same time so vague and equivocal, that her mother, though often
 disheartened, had never yet despaired of succeeding at last.
 
- 
- 
- 
- 
-== Chapter 40
 
+## Chapter 40
 
 Elizabeth's impatience to acquaint Jane with what had happened could no
 longer be overcome; and at length, resolving to suppress every
@@ -7685,12 +7558,8 @@ often talk of it between themselves. Well, if they can be easy with an
 estate that is not lawfully their own, so much the better. I should be
 ashamed of having one that was only entailed on me."
 
- 
- 
- 
- 
-== Chapter 41
 
+## Chapter 41
 
 The first week of their return was soon gone. The second began. It was
 the last of the regiment's stay in Meryton, and all the young ladies in
@@ -7712,7 +7581,7 @@ ago.
 "I am sure," said she, "I cried for two days together when Colonel
 Miller's regiment went away. I thought I should have broken my heart."
 
-"I am sure I shall break __mine__," said Lydia.
+"I am sure I shall break _mine_," said Lydia.
 
 "If one could but go to Brighton!" observed Mrs. Bennet.
 
@@ -7734,7 +7603,7 @@ received an invitation from Mrs. Forster, the wife of the colonel of the
 regiment, to accompany her to Brighton. This invaluable friend was a
 very young woman, and very lately married. A resemblance in good humour
 and good spirits had recommended her and Lydia to each other, and out of
-their _three_ months' acquaintance they had been intimate __two__.
+their _three_ months' acquaintance they had been intimate _two_.
 
 The rapture of Lydia on this occasion, her adoration of Mrs. Forster,
 the delight of Mrs. Bennet, and the mortification of Kitty, are scarcely
@@ -7919,7 +7788,7 @@ am certain he has very much at heart."
 Elizabeth could not repress a smile at this, but she answered only by a
 slight inclination of the head. She saw that he wanted to engage her on
 the old subject of his grievances, and she was in no humour to indulge
-him. The rest of the evening passed with the __appearance__, on his
+him. The rest of the evening passed with the _appearance_, on his
 side, of usual cheerfulness, but with no further attempt to distinguish
 Elizabeth; and they parted at last with mutual civility, and possibly a
 mutual desire of never meeting again.
@@ -7935,12 +7804,8 @@ was every reason to believe would be well attended to; and in the
 clamorous happiness of Lydia herself in bidding farewell, the more
 gentle adieus of her sisters were uttered without being heard.
 
- 
- 
- 
- 
-== Chapter 42
 
+## Chapter 42
 
 Had Elizabeth's opinion been all drawn from her own family, she could
 not have formed a very pleasing opinion of conjugal felicity or domestic
@@ -8117,12 +7982,8 @@ next morning, and she was again applied to, could readily answer, and
 with a proper air of indifference, that she had not really any dislike
 to the scheme. To Pemberley, therefore, they were to go.
 
- 
- 
- 
- 
-== Chapter 43
 
+## Chapter 43
 
 Elizabeth, as they drove along, watched for the first appearance of
 Pemberley Woods with some perturbation; and when at length they turned
@@ -8501,7 +8362,7 @@ walking arm-in-arm with Elizabeth, gave her a look expressive of wonder.
 Elizabeth said nothing, but it gratified her exceedingly; the compliment
 must be all for herself. Her astonishment, however, was extreme, and
 continually was she repeating, "Why is he so altered? From what can it
-proceed? It cannot be for __me__—it cannot be for _my_ sake that his
+proceed? It cannot be for _me_—it cannot be for _my_ sake that his
 manners are thus softened. My reproofs at Hunsford could not work such a
 change as this. It is impossible that he should still love me."
 
@@ -8626,12 +8487,8 @@ much attention for any of these new friends; and she could do nothing
 but think, and think with wonder, of Mr. Darcy's civility, and, above
 all, of his wishing her to be acquainted with his sister.
 
- 
- 
- 
- 
-== Chapter 44
 
+## Chapter 44
 
 Elizabeth had settled it that Mr. Darcy would bring his sister to visit
 her the very day after her reaching Pemberley; and was consequently
@@ -8756,7 +8613,7 @@ their wish of seeing Mr. and Mrs. Gardiner, and Miss Bennet, to dinner
 at Pemberley, before they left the country. Miss Darcy, though with a
 diffidence which marked her little in the habit of giving invitations,
 readily obeyed. Mrs. Gardiner looked at her niece, desirous of knowing
-how __she__, whom the invitation most concerned, felt disposed as to its
+how _she_, whom the invitation most concerned, felt disposed as to its
 acceptance, but Elizabeth had turned away her head. Presuming however,
 that this studied avoidance spoke rather a momentary embarrassment than
 any dislike of the proposal, and seeing in her husband, who was fond of
@@ -8847,12 +8704,8 @@ Mr. Gardiner left them soon after breakfast. The fishing scheme had been
 renewed the day before, and a positive engagement made of his meeting
 some of the gentlemen at Pemberley before noon.
 
- 
- 
- 
- 
-== Chapter 45
 
+## Chapter 45
 
 Convinced as Elizabeth now was that Miss Bingley's dislike of her had
 originated in jealousy, she could not help feeling how unwelcome her
@@ -9005,7 +8858,7 @@ determination of making him speak, she continued:
 "I remember, when we first knew her in Hertfordshire, how amazed we all
 were to find that she was a reputed beauty; and I particularly recollect
 your saying one night, after they had been dining at Netherfield,
-'__She__ a beauty!—I should as soon call her mother a wit.' But
+'_She_ a beauty!—I should as soon call her mother a wit.' But
 afterwards she seemed to improve on you, and I believe you thought her
 rather pretty at one time."
 
@@ -9025,12 +8878,8 @@ himself; yet Elizabeth was longing to know what Mrs. Gardiner thought of
 him, and Mrs. Gardiner would have been highly gratified by her niece's
 beginning the subject.
 
- 
- 
- 
- 
-== Chapter 46
 
+## Chapter 46
 
 Elizabeth had been a good deal disappointed in not finding a letter from
 Jane on their first arrival at Lambton; and this disappointment had been
@@ -9312,12 +9161,8 @@ remained to be done but to go; and Elizabeth, after all the misery of
 the morning, found herself, in a shorter space of time than she could
 have supposed, seated in the carriage, and on the road to Longbourn.
 
- 
- 
- 
- 
-== Chapter 47
 
+## Chapter 47
 
 "I have been thinking it over again, Elizabeth," said her uncle, as they
 drove from the town; "and really, upon serious consideration, I am much
@@ -9618,9 +9463,9 @@ first got abroad, it hastened his journey."
 "And was Denny convinced that Wickham would not marry? Did he know of
 their intending to go off? Had Colonel Forster seen Denny himself?"
 
-"Yes; but, when questioned by __him__, Denny denied knowing anything of
+"Yes; but, when questioned by _him_, Denny denied knowing anything of
 their plans, and would not give his real opinion about it. He did not
-repeat his persuasion of their not marrying—and from __that__, I am
+repeat his persuasion of their not marrying—and from _that_, I am
 inclined to hope, he might have been misunderstood before."
 
 "And till Colonel Forster came himself, not one of you entertained a
@@ -9740,12 +9585,8 @@ other designs that he had formed; but he was in such a hurry to be gone,
 and his spirits so greatly discomposed, that I had difficulty in finding
 out even so much as this."
 
- 
- 
- 
- 
-== Chapter 48
 
+## Chapter 48
 
 The whole party were in hopes of a letter from Mr. Bennet the next
 morning, but the post came in without bringing a single line from him.
@@ -9910,7 +9751,7 @@ received none since her return that could come from Pemberley.
 
 The present unhappy state of the family rendered any other excuse for
 the lowness of her spirits unnecessary; nothing, therefore, could be
-fairly conjectured from __that__, though Elizabeth, who was by this time
+fairly conjectured from _that_, though Elizabeth, who was by this time
 tolerably well acquainted with her own feelings, was perfectly aware
 that, had she known nothing of Darcy, she could have borne the dread of
 Lydia's infamy somewhat better. It would have spared her, she thought,
@@ -9960,7 +9801,7 @@ I can; or, perhaps, I may defer it till Kitty runs away."
 "I am not going to run away, papa," said Kitty fretfully. "If I should
 ever go to Brighton, I would behave better than Lydia."
 
-"__You__ go to Brighton. I would not trust you so near it as Eastbourne
+"_You_ go to Brighton. I would not trust you so near it as Eastbourne
 for fifty pounds! No, Kitty, I have at last learnt to be cautious, and
 you will feel the effects of it. No officer is ever to enter into my
 house again, nor even to pass through the village. Balls will be
@@ -9974,12 +9815,8 @@ Kitty, who took all these threats in a serious light, began to cry.
 girl for the next ten years, I will take you to a review at the end of
 them."
 
- 
- 
- 
- 
-== Chapter 49
 
+## Chapter 49
 
 Two days after Mr. Bennet's return, as Jane and Elizabeth were walking
 together in the shrubbery behind the house, they saw the housekeeper
@@ -10235,12 +10072,8 @@ be justly expected for her sister, in looking back to what they had
 feared, only two hours ago, she felt all the advantages of what they had
 gained.
 
- 
- 
- 
- 
-== Chapter 50
 
+## Chapter 50
 
 Mr. Bennet had very often wished before this period of his life that,
 instead of spending his whole income, he had laid by an annual sum for
@@ -10459,12 +10292,8 @@ surprised, however, that Wickham should consent to such a scheme, and
 had she consulted only her own inclination, any meeting with him would
 have been the last object of her wishes.
 
- 
- 
- 
- 
-== Chapter 51
 
+## Chapter 51
 
 Their sister's wedding day arrived; and Jane and Elizabeth felt for her
 probably more than she felt for herself. The carriage was sent to meet
@@ -10665,7 +10494,7 @@ a time. Pray write instantly, and let me understand it—unless it is, for
 very cogent reasons, to remain in the secrecy which Lydia seems to think
 necessary; and then I must endeavour to be satisfied with ignorance."
 
-"Not that I __shall__, though," she added to herself, as she finished
+"Not that I _shall_, though," she added to herself, as she finished
 the letter; "and my dear aunt, if you do not tell me in an honourable
 manner, I shall certainly be reduced to tricks and stratagems to find it
 out."
@@ -10675,12 +10504,8 @@ Elizabeth privately of what Lydia had let fall; Elizabeth was glad of
 it;—till it appeared whether her inquiries would receive any
 satisfaction, she had rather be without a confidante.
 
- 
- 
- 
- 
-== Chapter 52
 
+## Chapter 52
 
 Elizabeth had the satisfaction of receiving an answer to her letter as
 soon as she possibly could. She was no sooner in possession of it than,
@@ -10696,7 +10521,7 @@ contain a denial.
 "I have just received your letter, and shall devote this whole morning
 to answering it, as I foresee that a _little_ writing will not comprise
 what I have to tell you. I must confess myself surprised by your
-application; I did not expect it from __you__. Don't think me angry,
+application; I did not expect it from _you_. Don't think me angry,
 however, for I only mean to let you know that I had not imagined such
 inquiries to be necessary on _your_ side. If you do not choose to
 understand me, forgive my impertinence. Your uncle is as much surprised
@@ -10768,7 +10593,7 @@ to be proof against the temptation of immediate relief.
 course wanted more than he could get; but at length was reduced to be
 reasonable.
 
-"Every thing being settled between __them__, Mr. Darcy's next step was
+"Every thing being settled between _them_, Mr. Darcy's next step was
 to make your uncle acquainted with it, and he first called in
 Gracechurch street the evening before I came home. But Mr. Gardiner
 could not be seen, and Mr. Darcy found, on further inquiry, that your
@@ -10803,12 +10628,12 @@ at most.
 "You know pretty well, I suppose, what has been done for the young
 people. His debts are to be paid, amounting, I believe, to considerably
 more than a thousand pounds, another thousand in addition to her own
-settled upon __her__, and his commission purchased. The reason why all
+settled upon _her_, and his commission purchased. The reason why all
 this was to be done by him alone, was such as I have given above. It was
 owing to him, to his reserve and want of proper consideration, that
 Wickham's character had been so misunderstood, and consequently that he
 had been received and noticed as he was. Perhaps there was some truth in
-__this__; though I doubt whether _his_ reserve, or _anybody's_ reserve,
+_this_; though I doubt whether _his_ reserve, or _anybody's_ reserve,
 can be answerable for the event. But in spite of all this fine talking,
 my dear Lizzy, you may rest perfectly assured that your uncle would
 never have yielded, if we had not given him credit for _another
@@ -10841,7 +10666,7 @@ dear Lizzy, if I take this opportunity of saying (what I was never bold
 enough to say before) how much I like him. His behaviour to us has, in
 every respect, been as pleasing as when we were in Derbyshire. His
 understanding and opinions all please me; he wants nothing but a little
-more liveliness, and __that__, if he marry __prudently__, his wife may
+more liveliness, and _that_, if he marry _prudently_, his wife may
 teach him. I thought him very sly;—he hardly ever mentioned your name.
 But slyness seems the fashion.
 
@@ -10928,7 +10753,7 @@ me. But of course she did not mention my name to you."
 "And what did she say?"
 
 "That you were gone into the army, and she was afraid had—not turned out
-well. At such a distance as __that__, you know, things are strangely
+well. At such a distance as _that_, you know, things are strangely
 misrepresented."
 
 "Certainly," he replied, biting his lips. Elizabeth hoped she had
@@ -10973,10 +10798,10 @@ retirement of such a life would have answered all my ideas of happiness!
 But it was not to be. Did you ever hear Darcy mention the circumstance,
 when you were in Kent?"
 
-"I have heard from authority, which I thought __as good__, that it was
+"I have heard from authority, which I thought _as good_, that it was
 left you conditionally only, and at the will of the present patron."
 
-"You have. Yes, there was something in __that__; I told you so from the
+"You have. Yes, there was something in _that_; I told you so from the
 first, you may remember."
 
 "I _did_ hear, too, that there was a time, when sermon-making was not so
@@ -10998,12 +10823,8 @@ mind."
 She held out her hand; he kissed it with affectionate gallantry, though
 he hardly knew how to look, and they entered the house.
 
- 
- 
- 
- 
-== Chapter 53
 
+## Chapter 53
 
 Mr. Wickham was so perfectly satisfied with this conversation that he
 never again distressed himself, or provoked his dear sister Elizabeth,
@@ -11022,7 +10843,7 @@ continue at least a twelvemonth.
 "Write to me very often, my dear."
 
 "As often as I can. But you know married women have never much time for
-writing. My sisters may write to __me__. They will have nothing else to
+writing. My sisters may write to _me_. They will have nothing else to
 do."
 
 Mr. Wickham's adieus were much more affectionate than his wife's. He
@@ -11079,7 +10900,7 @@ any silly cause. I was only confused for the moment, because I felt that
 I _should_ be looked at. I do assure you that the news does not affect
 me either with pleasure or pain. I am glad of one thing, that he comes
 alone; because we shall see the less of him. Not that I am afraid of
-__myself__, but I dread other people's remarks."
+_myself_, but I dread other people's remarks."
 
 Elizabeth did not know what to make of it. Had she not seen him in
 Derbyshire, she might have supposed him capable of coming there with no
@@ -11319,12 +11140,8 @@ not think anything less than two courses could be good enough for a man
 on whom she had such anxious designs, or satisfy the appetite and pride
 of one who had ten thousand a year.
 
- 
- 
- 
- 
-== Chapter 54
 
+## Chapter 54
 
 As soon as they were gone, Elizabeth walked out to recover her spirits;
 or in other words, to dwell without interruption on those subjects that
@@ -11407,7 +11224,7 @@ gentlemen came, was wearisome and dull to a degree that almost made her
 uncivil. She looked forward to their entrance as the point on which all
 her chance of pleasure for the evening must depend.
 
-"If he does not come to me, __then__," said she, "I shall give him up
+"If he does not come to me, _then_," said she, "I shall give him up
 for ever."
 
 The gentlemen came; and she thought he looked as if he would have
@@ -11508,12 +11325,8 @@ acknowledge?"
 instruct, though we can teach only what is not worth knowing. Forgive
 me; and if you persist in indifference, do not make me your confidante."
 
- 
- 
- 
- 
-== Chapter 55
 
+## Chapter 55
 
 A few days after this visit, Mr. Bingley called again, and alone. His
 friend had left him that morning for London, but was to return home in
@@ -11778,12 +11591,8 @@ The Bennets were speedily pronounced to be the luckiest family in the
 world, though only a few weeks before, when Lydia had first run away,
 they had been generally proved to be marked out for misfortune.
 
- 
- 
- 
- 
-== Chapter 56
 
+## Chapter 56
 
 One morning, about a week after Bingley's engagement with Jane had been
 formed, as he and the females of the family were sitting together in the
@@ -11986,7 +11795,7 @@ here with the determined resolution of carrying my purpose; nor will I
 be dissuaded from it. I have not been used to submit to any person's
 whims. I have not been in the habit of brooking disappointment."
 
-"__That__ will make your ladyship's situation at present more pitiable;
+"_That_ will make your ladyship's situation at present more pitiable;
 but it will have no effect on me."
 
 "I will not be interrupted. Hear me in silence. My daughter and my
@@ -12009,7 +11818,7 @@ are your uncles and aunts? Do not imagine me ignorant of their
 condition."
 
 "Whatever my connections may be," said Elizabeth, "if your nephew does
-not object to them, they can be nothing to __you__."
+not object to them, they can be nothing to _you_."
 
 "Tell me once for all, are you engaged to him?"
 
@@ -12069,7 +11878,7 @@ must disgrace him in the eyes of everybody?"
 
 "I have said no such thing. I am only resolved to act in that manner,
 which will, in my own opinion, constitute my happiness, without
-reference to __you__, or to any person so wholly unconnected with me."
+reference to _you_, or to any person so wholly unconnected with me."
 
 "It is well. You refuse, then, to oblige me. You refuse to obey the
 claims of duty, honour, and gratitude. You are determined to ruin him in
@@ -12110,12 +11919,8 @@ nothing particular to say to you, Lizzy?"
 Elizabeth was forced to give into a little falsehood here; for to
 acknowledge the substance of their conversation was impossible.
 
- 
- 
- 
- 
-== Chapter 57
 
+## Chapter 57
 
 The discomposure of spirits which this extraordinary visit threw
 Elizabeth into, could not be easily overcome; nor could she, for many
@@ -12144,7 +11949,7 @@ not pronounce. She knew not the exact degree of his affection for his
 aunt, or his dependence on her judgment, but it was natural to suppose
 that he thought much higher of her ladyship than _she_ could do; and it
 was certain that, in enumerating the miseries of a marriage with
-__one__, whose immediate connections were so unequal to his own, his
+_one_, whose immediate connections were so unequal to his own, his
 aunt would address him on his weakest side. With his notions of dignity,
 he would probably feel that the arguments, which to Elizabeth had
 appeared weak and ridiculous, contained much good sense and solid
@@ -12229,7 +12034,7 @@ inclined to take immediate advantage of.'
 that his aunt, Lady Catherine de Bourgh, does not look on the match with
 a friendly eye.'
 
-"__Mr. Darcy__, you see, is the man! Now, Lizzy, I think I _have_
+"_Mr. Darcy_, you see, is the man! Now, Lizzy, I think I _have_
 surprised you. Could he, or the Lucases, have pitched on any man within
 the circle of our acquaintance, whose name would have given the lie more
 effectually to what they related? Mr. Darcy, who never looks at any
@@ -12264,7 +12069,7 @@ as a Christian, but never to admit them in your sight, or allow their
 names to be mentioned in your hearing.' That is his notion of Christian
 forgiveness! The rest of his letter is only about his dear Charlotte's
 situation, and his expectation of a young olive-branch. But, Lizzy, you
-look as if you did not enjoy it. You are not going to be __missish__, I
+look as if you did not enjoy it. You are not going to be _missish_, I
 hope, and pretend to be affronted at an idle report. For what do we
 live, but to make sport for our neighbours, and laugh at them in our
 turn?"
@@ -12272,7 +12077,7 @@ turn?"
 "Oh!" cried Elizabeth, "I am excessively diverted. But it is so
 strange!"
 
-"Yes—__that__ is what makes it amusing. Had they fixed on any other man
+"Yes—_that_ is what makes it amusing. Had they fixed on any other man
 it would have been nothing; but _his_ perfect indifference, and _your_
 pointed dislike, make it so delightfully absurd! Much as I abominate
 writing, I would not give up Mr. Collins's correspondence for any
@@ -12290,12 +12095,8 @@ what he said of Mr. Darcy's indifference, and she could do nothing but
 wonder at such a want of penetration, or fear that perhaps, instead of
 his seeing too little, she might have fancied too much.
 
- 
- 
- 
- 
-== Chapter 58
 
+## Chapter 58
 
 Instead of receiving any such letter of excuse from his friend, as
 Elizabeth half expected Mr. Bingley to do, he was able to bring Darcy
@@ -12340,7 +12141,7 @@ sake of discovering them."
 That the wish of giving happiness to you might add force to the other
 inducements which led me on, I shall not attempt to deny. But your
 _family_ owe me nothing. Much as I respect them, I believe I thought
-only of __you__."
+only of _you_."
 
 Elizabeth was too much embarrassed to say a word. After a short pause,
 her companion added, "You are too generous to trifle with me. If your
@@ -12380,7 +12181,7 @@ had you been absolutely, irrevocably decided against me, you would have
 acknowledged it to Lady Catherine, frankly and openly."
 
 Elizabeth coloured and laughed as she replied, "Yes, you know enough of
-my frankness to believe me capable of __that__. After abusing you so
+my frankness to believe me capable of _that_. After abusing you so
 abominably to your face, I could have no scruple in abusing you to all
 your relations."
 
@@ -12560,12 +12361,8 @@ Bingley, which of course was to be inferior only to his own, he
 continued the conversation till they reached the house. In the hall they
 parted.
 
- 
- 
- 
- 
-== Chapter 59
 
+## Chapter 59
 
 "My dear Lizzy, where can you have been walking to?" was a question
 which Elizabeth received from Jane as soon as she entered their room,
@@ -12707,7 +12504,7 @@ disapprobation.
 In the evening, soon after Mr. Bennet withdrew to the library, she saw
 Mr. Darcy rise also and follow him, and her agitation on seeing it was
 extreme. She did not fear her father's opposition, but he was going to
-be made unhappy; and that it should be through her means—that __she__,
+be made unhappy; and that it should be through her means—that _she_,
 his favourite child, should be distressing him by her choice, should be
 filling him with fears and regrets in disposing of her—was a wretched
 reflection, and she sat in misery till Mr. Darcy appeared again, when,
@@ -12743,7 +12540,7 @@ such terms."
 
 "Lizzy," said her father, "I have given him my consent. He is the kind
 of man, indeed, to whom I should never dare refuse anything, which he
-condescended to ask. I now give it to __you__, if you are resolved on
+condescended to ask. I now give it to _you_, if you are resolved on
 having him. But let me advise you to think better of it. I know your
 disposition, Lizzy. I know that you could be neither happy nor
 respectable, unless you truly esteemed your husband; unless you looked
@@ -12835,12 +12632,8 @@ every hour in his esteem.
 is my favourite; but I think I shall like _your_ husband quite as well
 as Jane's."
 
- 
- 
- 
- 
-== Chapter 60
 
+## Chapter 60
 
 Elizabeth's spirits soon rising to playfulness again, she wanted Mr.
 Darcy to account for his having ever fallen in love with her. "How could
@@ -12863,7 +12656,7 @@ did you admire me for my impertinence?"
 The fact is, that you were sick of civility, of deference, of officious
 attention. You were disgusted with the women who were always speaking,
 and looking, and thinking for _your_ approbation alone. I roused, and
-interested you, because I was so unlike __them__. Had you not been
+interested you, because I was so unlike _them_. Had you not been
 really amiable, you would have hated me for it; but in spite of the
 pains you took to disguise yourself, your feelings were always noble and
 just; and in your heart, you thoroughly despised the persons who so
@@ -12899,7 +12692,7 @@ I should be so reasonable as to admit it! But I wonder how long you
 _would_ have gone on, if you had been left to yourself. I wonder when
 you _would_ have spoken, if I had not asked you! My resolution of
 thanking you for your kindness to Lydia had certainly great effect.
-__Too much__, I am afraid; for what becomes of the moral, if our comfort
+_Too much_, I am afraid; for what becomes of the moral, if our comfort
 springs from a breach of promise? for I ought not to have mentioned the
 subject. This will never do."
 
@@ -12915,7 +12708,7 @@ for she loves to be of use. But tell me, what did you come down to
 Netherfield for? Was it merely to ride to Longbourn and be embarrassed?
 or had you intended any more serious consequence?"
 
-"My real purpose was to see __you__, and to judge, if I could, whether I
+"My real purpose was to see _you_, and to judge, if I could, whether I
 might ever hope to make you love me. My avowed one, or what I avowed to
 myself, was to see whether your sister were still partial to Bingley,
 and if she were, to make the confession to him which I have since made."
@@ -13009,12 +12802,8 @@ the time when they should be removed from society so little pleasing to
 either, to all the comfort and elegance of their family party at
 Pemberley.
 
- 
- 
- 
- 
-== Chapter 61
 
+## Chapter 61
 
 Happy for all her maternal feelings was the day on which Mrs. Bennet got
 rid of her two most deserving daughters. With what delighted pride she
