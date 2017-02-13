@@ -17,6 +17,29 @@ title: Pride and Prejudice
 
 This is a git repository of the source files for the book Pride and Prejudice by Austen, Jane, 1775–1817. This book is in the Public Domain, see the LICENSE file for details.
 
+
+## Copyright
+
+This edition of _Pride and Prejudice_ is maintained, archived, and curated as part of the GITENBERG PROJECT.
+
+This work is in the public domain.
+
+If you find any issues with this work, please report them at
+https://github.com/GITenberg/Pride-and-Prejudice_1342/issues
+
+***
+
+Cover provided by Recovering the Classics
+
+Artist: Kathryn Delaney, (C) 2013
+
+Made available under a Creative Commons Attribution-NonCommercial 4.0 license
+
+https://creativecommons.org/licenses/by-nc/4.0/
+
+
+
+
 # Found an error?
 
 If you find an error in a book in GITenberg, you can report it by clicking the Issues tab in this book’s repository. Please copy-and-paste the entire sentence that contains the error, and what the text should read. For advanced users, you can make a Pull Request on Github. For more information and how to get involved see the [CONTRIBUTING](http://gitenberg.github.com/#contributing) section of the GITenberg website.
