@@ -18,24 +18,18 @@ title: Pride and Prejudice
 This is a git repository of the source files for the book Pride and Prejudice by Austen, Jane, 1775–1817. This book is in the Public Domain, see the LICENSE file for details.
 
 
-## Copyright
 
 This edition of _Pride and Prejudice_ is maintained, archived, and curated as part of the GITENBERG PROJECT.
 
-This work is in the public domain.
 
 If you find any issues with this work, please report them at
 https://github.com/GITenberg/Pride-and-Prejudice_1342/issues
 
 ***
 
-Cover provided by Recovering the Classics
 
-Artist: Kathryn Delaney, (C) 2013
 
-Made available under a Creative Commons Attribution-NonCommercial 4.0 license
 
-https://creativecommons.org/licenses/by-nc/4.0/
 
 
 
@@ -57,3 +51,9 @@ Project Gutenberg is a project to collect and archive public domain texts and is
 > Project Gutenberg (PG) is a volunteer effort to digitize and archive cultural works, to “encourage the creation and distribution of eBooks”. It was founded in 1971 by Michael S. Hart and is the oldest digital library. Most of the items in its collection are the full texts of public domain books. The project tries to make these as free as possible, in long-lasting, open formats that can be used on almost any computer. As of July 2012, Project Gutenberg claimed over 40,000 items in its collection.
 >
 > From Wikipedia, the free encyclopedia
+
+
+## Copyright
+
+This book is in the [Public Domain](https://wiki.creativecommons.org/wiki/Public_domain), see the [LICENSE file](LICENSE) for details.
+
