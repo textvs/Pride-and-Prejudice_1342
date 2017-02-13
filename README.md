@@ -1,20 +1,3 @@
----
-author:
-- 'Austen, Jane, 1775–1817'
-book id: 1342
-language: en
-lcc: PR
-subject: |
-    Young women — Fiction\
-    England — Fiction\
-    Domestic fiction\
-    Love stories\
-    Sisters — Fiction\
-    Social classes — Fiction\
-    Courtship — Fiction
-title: Pride and Prejudice
-...
-
 This is a git repository of the source files for the book Pride and Prejudice by Austen, Jane, 1775–1817. This book is in the Public Domain, see the LICENSE file for details.
 
 

@@ -1,6 +1,6 @@
 # Pride and Prejudice
 
-Jane Austen
+✍ Jane Austen
 
 
 ## Chapter 1
