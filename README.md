@@ -4,6 +4,10 @@ This repository contains the source text to [Jane Austen](https://en.wikipedia.o
 
 ![Title page of the first edition from 1813](1813-title-page.png)
 
+You can find a PDF file ([`Pride_and_Prejudice.pdf`](Pride_and_Prejudice.pdf)), too, typeset with [Textus.io](http://textus.io), for which, as only input, the canonical source text ([`Pride_and_Prejudice.md`](Pride_and_Prejudice.md)) was used, along with a simple cover artwork file ([`cover.svg`](cover.svg)).
+
+![Cover generated with Textus.io on Valentine’s Day, 2017](cover.png)
+
 
 ## Found an error?
 
